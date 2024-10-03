@@ -1,3 +1,5 @@
+# code by Nathan Samuell
+
 print("Script started!")
 
 def divideNums(num1, num2):
