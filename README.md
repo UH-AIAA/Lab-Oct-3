@@ -7,6 +7,7 @@ Git basics, github basics, python error basics!! Let's get hacking on GroundStat
 - getting access to the lab repository
 - This [video](https://www.youtube.com/watch?v=mJ-qvsxPHpY&pp=ygUPZ2l0IGZvciBkdW1taWVz)
 - play with repo with stuff learned in the video
+- go a little deeper with git branch to allow project contribution
 
 2. Python Error Handling
 - Why error handling matters
