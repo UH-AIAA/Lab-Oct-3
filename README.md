@@ -15,3 +15,5 @@ Git basics, github basics, python error basics!! Let's get hacking on GroundStat
 - how we can use it in groundStation
 - play with [this file](https://github.com/nathansamuell/Lab-Oct-3/blob/main/error_handling.py) first
 - play with it on groundStation code in a guided manner, as well as make our first commits to the repository!
+
+Written By Nathan Samuell
