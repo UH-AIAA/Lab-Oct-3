@@ -4,6 +4,7 @@ def divideNums(num1, num2):
   result = num1 / num2;
   print(result)
 
+
 # This code works normally
 divideNums(7, 9)
 divideNums(9, 32)
