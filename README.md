@@ -12,5 +12,5 @@ Git basics, github basics, python error basics!! Let's get hacking on GroundStat
 - Why error handling matters
 - try/catch/except blocks of code
 - how we can use it in groundStation
-- play with this file first
-- play with it on groundStation code in a guided manner, guide here
+- play with [this file](https://github.com/nathansamuell/Lab-Oct-3/blob/main/error_handling.py) first
+- play with it on groundStation code in a guided manner, as well as make our first commits to the repository!
