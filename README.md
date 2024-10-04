@@ -1,4 +1,8 @@
 # Lab-Oct-3
+
+### Live Share URL
+https://prod.liveshare.vsengsaas.visualstudio.com/join?69F755B0037C0F65A305F66B9B99E492641E
+
 Git basics, github basics, python error basics!! Let's get hacking on GroundStation :)
 
 
