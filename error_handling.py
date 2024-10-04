@@ -23,7 +23,7 @@ def divideNumsWithErrorHandled(num1, num2):
   except ZeroDivisionError:
     print("Error: cannot divide by zero")
     print("Program keeps running!!")
-  except Error as e:
+  except Exception as e:
     print(str(e))
 
 
